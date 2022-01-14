@@ -2,7 +2,7 @@
 ## Gavin He
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+I'm Gavin, a senior student of CS major.
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
