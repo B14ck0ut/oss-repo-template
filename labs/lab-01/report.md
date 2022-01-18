@@ -28,3 +28,6 @@
 6.
 ![image](https://user-images.githubusercontent.com/68314331/149845048-f79edf95-acce-49ad-8a87-4901aed34169.png)
 ![image](https://user-images.githubusercontent.com/68314331/149845051-da8d8387-0424-452f-a662-1ff42fb00663.png)
+
+7.
+The project I am interested in is Blockcode: A visual programming toolkit. I choose this project because years ago I have done a project that uses the visual programming tool of Aarduino called ArduBlock to control a robot that finds the path in a maze. This project has potential to do much more than just drawing pictures, for example to program like what we do with codes. Although visual coding might not replace normal coding, it still have several advantages. First of all, visual blocks have better readability: the logic is more clear when we look at the blocks instead of reading the code especially when the code has a great amount. Second, The visual block programming is easier to learn, no more use cases to remember, no more memory problems to worry about, you can simply drag whatever function block you need to whereever you need it. Last but no least, visual programming can be widely applied to educations, such as training logical thinking of kids.
