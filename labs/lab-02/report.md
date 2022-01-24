@@ -12,6 +12,14 @@ https://github.com/B14ck0ut/Exercise01
 
 2.
 https://github.com/B14ck0ut/Spoon-Knife
+
 ![image](https://user-images.githubusercontent.com/68314331/150618314-420573f0-62f4-4ca0-9fe9-8b89e840770a.png)
 
 3.
+https://github.com/B14ck0ut/PullReq
+
+![image](https://user-images.githubusercontent.com/68314331/150704539-6c9d51af-9e53-4068-a44d-8c40ac235850.png)
+
+https://github.com/B14ck0ut/OSSProjectIdeas
+
+https://github.com/jportorreal00/OSSProjectIdeas
